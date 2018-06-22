@@ -2,7 +2,7 @@
   "name": "platzom",
   "version": "0.1.0",
   "description": "Traductor de palabras a un idioma inventado, Platzom. Proyecto realizado para el curso de Fundamentos de Javascript en Platzi.",
-  "main": "index.js",
+  "main": "dist/src/platzom.js",
   "scripts": {
     "build": "babel src/platzom.js -d dist"
   },
@@ -25,6 +25,7 @@
   "author": "Fernando Alejandro Yerena Ramos <ferdinandalexandros@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "babel-cli": "^6.26.0"
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
   }
 }

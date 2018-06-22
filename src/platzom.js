@@ -1,4 +1,4 @@
-function platzom(str) 
+export default function platzom(str) 
 {    
     let translation = str;
     
