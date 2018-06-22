@@ -1,0 +1,25 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "Traductor de palabras a un idioma inventado, Platzom. Proyecto realizado para el curso de Fundamentos de Javascript en Platzi.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdinandalexa/Platzom.git"
+  },
+  "keywords": [
+    "Platzom",
+    "Platzi",
+    "Traductor",
+    "Idioma",
+    "Inventado",
+    "Curso",
+    "Fundamentos",
+    "Javascript",
+    "JS",
+    "npm"
+  ],
+  "author": "Fernando Alejandro Yerena Ramos <ferdinandalexandros@gmail.com>",
+  "license": "MIT"
+}
