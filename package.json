@@ -1,5 +1,5 @@
 {
-  "name": "platzom",
+  "name": "@ferdinandalexa/platzom",
   "version": "0.1.0",
   "description": "Traductor de palabras a un idioma inventado, Platzom. Proyecto realizado para el curso de Fundamentos de Javascript en Platzi.",
   "main": "dist/src/platzom.js",
