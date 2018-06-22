@@ -4,7 +4,8 @@
   "description": "Traductor de palabras a un idioma inventado, Platzom. Proyecto realizado para el curso de Fundamentos de Javascript en Platzi.",
   "main": "dist/src/platzom.js",
   "scripts": {
-    "build": "babel src/platzom.js -d dist"
+    "build": "babel src/platzom.js -d dist",
+    "test" : "mocha"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,8 @@
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
   }
 }
